@@ -10,5 +10,8 @@ public static void main(String[] args) {
 	else if(percentage<75) {
 		JOptionPane.showMessageDialog(null, "You did ok...kinda...");
 	}
+	else if(percentage>90) {
+		JOptionPane.showMessageDialog(null, "You did WONDERFULLLLLLLLLL!!!!!!!!!!");
+	}
 }
 }
